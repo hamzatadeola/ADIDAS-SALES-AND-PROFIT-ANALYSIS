@@ -25,9 +25,6 @@ A Sales and Profit Analysis
 - Changed Data Types 
 
 
-### Exploratory Data Analysis
-
-
   ### Results
 - Total sales increased steadily across the months, with the highest sales recorded in JULY.
 - Profit followed a similar upward trend as sales, showing strong operational efficiency.
