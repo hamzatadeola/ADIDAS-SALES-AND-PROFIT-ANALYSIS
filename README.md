@@ -29,7 +29,12 @@ A Sales and Profit Analysis
 
 
   ### Results
-- 
+- Total sales increased steadily across the months, with the highest sales recorded in JULY.
+- Profit followed a similar upward trend as sales, showing strong operational efficiency.
+- Months showed high sales and high profit, indicating no discounts or increase in the price of goods.
+- Top performing products generated the highest sales and profit.
+- Low performing products contributed minimal revenue and may require review or marketing support.
+
 ### Recommendations
 - Strengthen High-Performing Products : Invest in marketing, supply availability, and bundle offers for top-selling items.
   Increase inventory in high-demand seasons to avoid stockouts.
