@@ -31,11 +31,11 @@ A Sales and Profit Analysis
   ### Results
 - 
 ### Recommendations
-1.Strengthen High-Performing Products : Invest in marketing, supply availability, and bundle offers for top-selling items.
+- Strengthen High-Performing Products : Invest in marketing, supply availability, and bundle offers for top-selling items.
   Increase inventory in high-demand seasons to avoid stockouts.
-2. Improve Profit Margins : Review cost structure for months with high sales but lower profit and negotiate better supplier pricing or optimize logistics.
-3. Focus on Underperforming Regions :Investigate reasons for low revenue (logistics, competition, awareness).
-4. Expand in High-Growth Regions : Channel more sales agents, advertising, and product availability to regions showing consistent profit growth.
+- Improve Profit Margins : Review cost structure for months with high sales but lower profit and negotiate better supplier pricing or optimize logistics.
+- Focus on Underperforming Regions :Investigate reasons for low revenue (logistics, competition, awareness).
+- Expand in High-Growth Regions : Channel more sales agents, advertising, and product availability to regions showing consistent profit growth.
 
 
 
